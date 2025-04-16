@@ -1,6 +1,6 @@
 # Folder Merger
 
-A Python utility for safely merging multiple folders while handling file conflicts intelligently.
+Once you are preparing for a data migration from Google Drive, you will notice multiple issues. If you decide to just download all your data (multiple GBs), you have the issue, that Drive will provide multiple zipped files. Only unzipping those files would just make big spaghetti dish and you will need too long to arrange your files and folders. This Python utility will safely merge multiple folders while handling file conflicts intelligently.
 
 ## Features
 
